@@ -1,4 +1,6 @@
-### Hi, i'm Deborah 🌸
+<p align="center"><a href="https://deborahsakamoto.github.io"><img width="80%" alt="Hello, I'm Deborah  " src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
 
 - 💻 I’m currently working on Mil Tec Tecnologia da Informação
 - 📖 I’m currently learning C#
@@ -13,6 +15,6 @@
 
 <div align="center">
   <a href="https://github.com/deborahsakamoto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deborahsakamoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborahsakamoto&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deborahsakamoto&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborahsakamoto&layout=compact&langs_count=7&theme=omni"/>
 </div>
