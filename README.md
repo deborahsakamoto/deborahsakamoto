@@ -1,6 +1,4 @@
-<p align="center"><a href="https://deborahsakamoto.github.io"><img width="80%" alt="Hello, I'm Deborah  " src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
+## Hi, i'm Deborah Sakamoto 🍟
 
 - 💻 I’m currently working on Mil Tec Tecnologia da Informação
 - 📖 I’m currently learning C#
