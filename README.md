@@ -7,7 +7,7 @@
 
 
   <a href="https://github.com/deborahsakamoto">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=deborahsakamoto&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=deborahsakamoto&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborahsakamoto&layout=compact&langs_count=7&theme=omni"/>
 
 
